@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PanicApp</string>
+    <string name="details_city">Город:</string>
+    <string name="details_experience">Требуемый опыт:</string>
+    <string name="details_type_employment">Тип занятости:</string>
+    <string name="details_vacancy_descr">Описание:</string>
+    <string name="details_vacancy_contacts">Контакты:</string>
+    <string name="details_contact_person">Контактное лицо:</string>
+    <string name="details_contact_address">Адрес:</string>
+    <string name="details_contact_icq">ICQ:</string>
+    <string name="details_contact_mail">Почта:</string>
+    <string name="details_contact_site">Сайт:</string>
+    <string name="details_views">Просмотров:</string>
+    <string name="contacts_city_not_defined">Город не определен</string>
+</resources>

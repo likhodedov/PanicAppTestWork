@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PanicApp</string>
+    <string name="details_city">City:</string>
+    <string name="details_experience">Required experience:</string>
+    <string name="details_type_employment">Type of employment</string>
+    <string name="details_vacancy_descr">Description</string>
+    <string name="details_vacancy_contacts">Contacts:</string>
+    <string name="details_contact_person">The contact person</string>
+    <string name="details_contact_address">Adress:</string>
+    <string name="details_contact_icq">ICQ:</string>
+    <string name="details_contact_mail">Mail:</string>
+    <string name="details_contact_site">Website:</string>
+    <string name="details_views">Views:</string>
+    <string name="contacts_city_not_defined">City not defined</string>
+</resources>
